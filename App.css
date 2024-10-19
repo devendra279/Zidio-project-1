@@ -1,0 +1,40 @@
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 50px;
+  margin-top: 70px;
+  margin-right: 50px;
+  text-align: center;
+}
+
+.content img {
+  flex: 1;
+}
+
+.content:hover {
+  background-color: rgba(16, 37, 232, 0.889);
+  color: white;
+}
+
+section div {
+  text-align: left;
+  margin: 10px;
+  padding: 20px;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  margin: 10px;
+  padding: 20px;
+  vertical-align: bottom;
+}
+
+strong {
+  font-size: 55px;
+}
+
+p {
+  font-size: 35px;
+}
